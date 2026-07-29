@@ -1,6 +1,6 @@
 # RP2040 4x3 Keypad
 
-A compact custom keypad built around the Raspberry Pi RP2040 with a 4x3 switch matrix and QMK/Vial firmware support.
+A compact custom keypad built around the XIAO RP2040 with a 4x3 switch matrix and QMK/Vial firmware support.
 
 ![4x3 keypad](https://raw.githubusercontent.com/eone666/3x4_keypad/refs/heads/main/images/keypad.jpg)
 
