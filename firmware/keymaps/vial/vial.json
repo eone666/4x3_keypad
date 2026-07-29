@@ -1,0 +1,97 @@
+{
+    "name": "RP2040 4x3 Keypad",
+    "vendorId": "0x4144",
+    "productId": "0x3433",
+    "keycode_range": {
+        "start": "0x7E00",
+        "count": 12
+    },
+    "customKeycodes": [
+        {
+            "name": "Button 1",
+            "title": "Gamepad Button 1",
+            "shortName": "GP_BTN1"
+        },
+        {
+            "name": "Button 2",
+            "title": "Gamepad Button 2",
+            "shortName": "GP_BTN2"
+        },
+        {
+            "name": "Button 3",
+            "title": "Gamepad Button 3",
+            "shortName": "GP_BTN3"
+        },
+        {
+            "name": "Button 4",
+            "title": "Gamepad Button 4",
+            "shortName": "GP_BTN4"
+        },
+        {
+            "name": "Button 5",
+            "title": "Gamepad Button 5",
+            "shortName": "GP_BTN5"
+        },
+        {
+            "name": "Button 6",
+            "title": "Gamepad Button 6",
+            "shortName": "GP_BTN6"
+        },
+        {
+            "name": "Button 7",
+            "title": "Gamepad Button 7",
+            "shortName": "GP_BTN7"
+        },
+        {
+            "name": "Button 8",
+            "title": "Gamepad Button 8",
+            "shortName": "GP_BTN8"
+        },
+        {
+            "name": "Button 9",
+            "title": "Gamepad Button 9",
+            "shortName": "GP_BTN9"
+        },
+        {
+            "name": "Button 10",
+            "title": "Gamepad Button 10",
+            "shortName": "GP_BTN10"
+        },
+        {
+            "name": "Button 11",
+            "title": "Gamepad Button 11",
+            "shortName": "GP_BTN11" 
+        },
+        {
+            "name": "Button 12",
+            "title": "Gamepad Button 12",
+            "shortName": "GP_BTN12"
+        }
+    ],
+    "matrix": {
+        "rows": 3,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap": [
+            [
+                "0,0",
+                "0,1",
+                "0,2",
+                "0,3"
+            ],
+            [
+                "1,0",
+                "1,1",
+                "1,2",
+                "1,3"
+            ],
+            [
+                "2,0",
+                "2,1",
+                "2,2",
+                "2,3"
+            ]
+        ]
+    }
+}
