@@ -8,7 +8,6 @@ A compact custom keypad built around the Raspberry Pi RP2040 with a 4x3 switch m
 
 - `firmware/` — keyboard firmware sources, QMK keymaps, and Vial configuration.
 - `pcb/` — manufacturing assets for the RP2040 keypad PCB, including BOM, Gerbers, netlist and pick-and-place data.
-- `images/keypad.jpg` — visual reference for the assembled keypad.
 
 ## Key features
 
